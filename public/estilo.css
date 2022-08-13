@@ -1,0 +1,62 @@
+.navegador{
+    border:3px dotted #fd2323;
+    padding: 10px;
+    position: fixed;
+    background-color: #000;
+    margin-top: -50px;
+}
+.navhtml{
+    color: #14FFEC;
+    text-decoration-color:none;
+}
+.navegadores{
+    padding: 10px;
+    text-decoration: none;
+}
+.navcss{
+    color: #f00078;
+}
+.navjs{
+    color: #ffd306;
+}
+.navhtml:hover{
+    color:#4dffff;
+    text-shadow: 0 0 10px #4dffff, 0 0 40px #4dffff, 0 0 80px #4dffff;
+    transition-delay: .5s;
+    filter: brightness(1.5);
+}
+.navcss:hover{
+    color: #ff79bc;
+    text-shadow: 0 0 10px #ff79bc, 0 0 40px #ff79bc, 0 0 80px #4dffff;
+    transition-delay: .5s;
+    filter: brightness(1.5);
+}
+.navjs:hover{
+color: #ffe153;
+text-shadow: 0 0 10px #ffe153, 0 0 40px #ffe153, 0 0 80px #ffe153;
+transition-delay: .5s;
+filter: brightness(1.5);
+}
+body{
+    background-color: #000;
+}
+p{
+    color: #fff;
+}
+.presentacion{
+    text-align: center;
+    color: #fff;
+    border:1px solid #fff;
+    margin-top: 50px;
+}
+.htmlcont{
+    margin-top: 5px;
+    color: #fff;
+    border: 1px double #005ab5;
+    text-align: center;
+    padding: 10px;
+}
+.unodiez{
+border: 1px solid #ff0303;
+text-align: start;
+}
